@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OLX Tweets</string>
+
+    <!-- Strings related to login -->
+    <string name="title_activity_olxtabs">OLXTabsActivity</string>
+    <string name="title_Egypt">\@OLXEgypt</string>
+    <string name="title_home">Home</string>
+    <string name="title_dev">\@AndroidDev</string>
+    <string name="exit">Exit</string>
+</resources>

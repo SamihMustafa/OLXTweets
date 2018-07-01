@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_egypt"
+        android:icon="@drawable/ic_olx_logo"
+        android:title="@string/title_Egypt" />
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_dev"
+        android:icon="@drawable/ic_android"
+        android:title="@string/title_dev" />
+
+</menu>
